@@ -1,0 +1,7 @@
+{
+    "Clusternodes": ["127.0.0.1:7000", "127.0.0.1:7001", "127.0.0.1:7002"],
+    "Keyspace": "benchmark_db",
+    "Timeout": 180,
+    "Username": "",
+    "Password": ""
+}

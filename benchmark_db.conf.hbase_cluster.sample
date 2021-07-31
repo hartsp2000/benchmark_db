@@ -1,0 +1,7 @@
+{
+    "Clusternodes": ["zk001", "zk002", "zk003"],
+    "Keyspace": "benchmark_db",
+    "Timeout": 180,
+    "Username": "hbase",
+    "Password": ""
+}

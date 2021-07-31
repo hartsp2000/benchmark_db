@@ -1,0 +1,6 @@
+hartsp2000-07/30/2021-19:36-Version 0.0.1
+  * First release of a functional tool
+
+hartsp2000-11-06-2017 14:56
+  * Tool developed for the purpose of benchmarking various
+  * databases.

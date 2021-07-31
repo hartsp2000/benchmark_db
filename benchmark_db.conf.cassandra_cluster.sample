@@ -1,0 +1,7 @@
+{
+    "Clusternodes": ["127.0.0.1:9042", "127.0.0.1:10042", "127.0.0.1:11042"],
+    "Keyspace": "benchmark_db",
+    "Timeout": 180,
+    "Username": "cassandra",
+    "Password": "cassandra"
+}
